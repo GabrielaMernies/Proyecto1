@@ -1,0 +1,70 @@
+.fondo {
+    background-color: lightskyblue;
+    color: rgb(54, 12, 92);
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Playpen Sans', cursive;
+}
+
+nav{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.main_image{
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px 2px rgb(167, 15, 167);
+}
+
+.main_boton{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+main section article{
+    margin: 20px 0px 20px 0px;
+    padding: 0px 20px 0px 20px;
+}
+
+.articulo1 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main section article¨{
+    margin: 50px 0px 50px 0px;
+    padding: 50px 0px 50px 0px;
+}
+
+.articulo2{
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    margin: 0px 200px 0px 2%;
+}
+
+.others {
+    background-color: blueviolet;
+    color: beige;
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
+}
+
+.textoCentrado {
+    text-align: center;
+}
